@@ -1,0 +1,8 @@
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\bin\Debug\Lab3.exe.config
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\bin\Debug\Lab3.exe
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\bin\Debug\Lab3.pdb
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\obj\Debug\Lab3.exe
+D:\учеба\ЗИиНИС\Лабораторные\лр 3\Lab3\Lab3\obj\Debug\Lab3.pdb
